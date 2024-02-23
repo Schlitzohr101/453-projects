@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">DigitalArtSpace</string>
+    <string name="Artwork1Name">Woman with parasol - Madame Monet and Her Son</string>
+    <integer name="Artwork1Year">1875</integer>
+    <string name="Artwork1Creator">Claude Monet</string>
+    <string name="Artwork1Desc">Impressionist painting of a Woman holding parasol with child in background on a hill</string>
+    <string name="Artwork2Name">Landscape at Collioure</string>
+    <integer name="Artwork2Year">1905</integer>
+    <string name="Artwork2Creator">Henri Matisse</string>
+    <string name="Artwork2Desc">Vibrant painting composing of streaks of Color to describe a scene</string>
+    <string name="Artwork3Name">The Dog</string>
+    <integer name="Artwork3Year">1819</integer>
+    <string name="Artwork3Creator">Francisco de Goya</string>
+    <string name="Artwork3Desc">Painting of a dog looking up a very long and complexly rich brown and grey canvas</string>
 </resources>
